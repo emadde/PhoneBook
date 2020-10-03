@@ -19,7 +19,7 @@
 	* `void remove(String name)`
 		* removes an entry to the composite associate data type
 	* `Boolean hasEntry(String name)`
-		* removes an entry to the composite associate data type		
+		* Checks if it has entry		
 	* `List<String> lookup(String name)`
 		* returns a phone number for the respective input `name`
 	* `String reverseLookup(String phoneNumber)`
